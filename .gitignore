@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+*.log
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# dotenv
+.env.local
+.env.*.local
